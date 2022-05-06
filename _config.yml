@@ -2,8 +2,6 @@
 # This file contains configuration flags to customize your site
 #
 
-# remote_theme: amitmerchant1990/reverie
-
 # Name of your site (displayed in the header)
 name: Coaches association
 
@@ -14,7 +12,7 @@ author: Matt Trenary
 description: Short bio or description
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/CMRCAlogo.jpeg
 
 #
 # Flags below are optional
