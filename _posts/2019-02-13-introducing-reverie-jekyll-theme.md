@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Soft launch of Collegiate Men's Rugby Coaches Association
+title: Announcement of Collegiate Men's Rugby Coaches Association
 categories: [Miscellaneous, Membership]
 ---
 
