@@ -2,7 +2,7 @@
 # This file contains configuration flags to customize your site
 #
 
-theme: reverie
+remote_theme: amitmerchant1990/reverie
 
 # Name of your site (displayed in the header)
 name: Coaches association
