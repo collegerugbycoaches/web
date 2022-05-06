@@ -2,7 +2,7 @@
 # This file contains configuration flags to customize your site
 #
 
-remote_theme: amitmerchant1990/reverie
+# remote_theme: amitmerchant1990/reverie
 
 # Name of your site (displayed in the header)
 name: Coaches association
@@ -57,7 +57,7 @@ enforce_ssl: # https://www.amitmerchant.com/reverie
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/reverie"
+baseurl: "/web"
 
 #
 # !! You don't need to change any of the configuration flags below !!
